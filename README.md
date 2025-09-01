@@ -1,6 +1,6 @@
 # Pincel - A Lightweight Drawing App
 
-Pincel (Spanish word for “Paintbrush”) is a simple, lightweight drawing app inspired by the classic Microsoft Paint. It recreates the nostalgic MS Paint experience with a modern touch, focusing on a curated set of its most loved features in a clean, easy-to-use interface.
+Pincel (Spanish word for Paintbrush) is a simple, lightweight drawing app inspired by the classic Microsoft Paint. It recreates the nostalgic MS Paint experience with a modern touch, focusing on a curated set of its most loved features in a clean, easy-to-use interface.
 
 **Note:**
 This project is intended for educational purpose only.

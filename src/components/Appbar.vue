@@ -79,7 +79,7 @@ function openColorPicker() {
           <Palette :size="32" />
         </div>
 
-        <h1 class="text-2xl font-medium">Pintura</h1>
+        <h1 class="text-2xl font-medium">Pincel</h1>
       </div>
 
       <div class="border border-gray-200"></div>

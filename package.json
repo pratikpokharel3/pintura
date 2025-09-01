@@ -1,7 +1,8 @@
 {
-  "name": "paint-app",
+  "name": "pincel",
   "private": true,
   "version": "0.0.0",
+  "description": "Pincel | A Lightweight Drawing App",
   "type": "module",
   "scripts": {
     "dev": "vite",

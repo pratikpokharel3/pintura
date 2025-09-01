@@ -35,7 +35,7 @@ onClickOutside(modalRef, () => {
       </div>
 
       <div class="mt-1.5 border-t border-gray-300 pt-2 text-gray-600">
-        Pintura (<span class="italic">Spanish word for “paint”</span>) is a
+        Pincel (<span class="italic">Spanish word for Paintbrush</span>) is a
         simple, lightweight drawing app inspired by the classic Microsoft Paint.
         It recreates the nostalgic MS Paint experience with a modern touch,
         focusing on a curated set of its most loved features in a clean,
@@ -43,7 +43,7 @@ onClickOutside(modalRef, () => {
       </div>
 
       <div class="mt-2 text-center text-gray-600">
-        - Pintura, {{ new Date().getFullYear() }}
+        - Pincel, {{ new Date().getFullYear() }}
       </div>
     </div>
   </div>
