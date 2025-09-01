@@ -1,5 +1,28 @@
-# Vue 3 + TypeScript + Vite
+# Pintura - A Lightweight Drawing App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Pintura (Spanish word for “paint”) is a simple, lightweight drawing app inspired by the classic Microsoft Paint. It recreates the nostalgic MS Paint experience with a modern touch, focusing on a curated set of its most loved features in a clean, easy-to-use interface.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+**Note:**
+This project is intended for educational purpose only.
+
+## Built With
+
+- [Vue](https://vuejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+(See `package.json` file for more information)
+
+## Recommended IDE Setup
+
+- [VS Code](https://code.visualstudio.com/)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [TailwindCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+## Optional IDE Setup
+
+- [One Dark Pro (Theme)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Prettier Plugin TailwindCSS](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
